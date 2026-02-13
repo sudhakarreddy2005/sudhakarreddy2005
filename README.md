@@ -1,94 +1,21 @@
-# 👋 Hello, I'm Sudhakar Reddy Konda  
-
-🎯 **Aspiring Data Analyst | Data Science Enthusiast | Python Developer**
-
-I’m a dedicated **Data Science student** who enjoys discovering insights from data and presenting them through clear visualisations.  
-With hands-on experience in **Python, SQL, and analytical storytelling**, I’ve built several end-to-end projects — from ML-powered APIs to interactive dashboards.  
-Currently seeking a **Data Analyst internship** to apply analytical methods and problem-solving to real-world business challenges.
+# 💫 About Me:
+Hi 👋 I'm Sudhakar Reddy<br> <br>I am a Computer Science student with a strong interest in Data Science and Data Structures & Algorithms.  <br>I work with Python and SQL to analyze data and build machine learning models.  <br>I actively practice DSA to improve problem-solving and coding efficiency.  <br>My goal is to become a skilled Data Science professional with strong core fundamentals.<br>
 
 
-## 🚀 About Me  
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SudhakarReddykonda) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ig._mr_reddy_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhakar-reddy-konda-769320299) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@Dany) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@reddy442814) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Dany-o4j) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudhakarreddy30102005@gmail.com) 
 
-- 🎓 **B.Tech in Computer Science and Engineering**  
-  Vasireddy Venkatadri Institute of Technology — *CGPA: 8.9*  
-- 💡 Skilled in **data cleaning, analysis, and visualisation workflows**  
-- 📈 Experienced in **EDA, API development, and data-driven storytelling**  
-- 🧠 Passionate about combining analytics, automation, and visual design to make data easier to understand  
-- 🌱 Continuously learning and sharing through reproducible GitHub projects  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sudhakarreddy2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sudhakarreddy2005&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakarreddy2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sudhakarreddy2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-## 🧠 Skills & Tools  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sudhakarreddy2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-| Category | Tools / Languages |
-|-----------|------------------|
-| **Programming** | Python, Java, C |
-| **Data Handling** | Pandas, NumPy, SQL |
-| **Visualisation** | Matplotlib, Seaborn, MS Excel |
-| **Web & API Development** | Flask, HTML, CSS, JavaScript |
-| **Version Control** | Git, GitHub |
-| **Concepts** | Data Cleaning, EDA, Machine Learning, REST APIs |
-
-
-## 💻 Featured Projects  
-
-### 🔹 [Diabetes Prediction API](https://github.com/sudhakarreddy2005/diabetes-api)  
-Developed a **Flask-based RESTful API** that predicts diabetes risk using a trained machine learning model.  
-- Designed endpoints for real-time predictions and JSON-based responses  
-- Deployed the API on **Render** and linked it with a **Streamlit** frontend  
-- Created visualisations to highlight medical correlations  
-🧩 *Tech:* Python, Flask, Scikit-learn, Pandas, Streamlit  
-
-
-
-### 🔹 [IRIS Flower Classification](https://github.com/sudhakarreddy2005/IRIS_SVC_ML)  
-Trained an **SVC (Support Vector Classifier)** to classify iris flower species.  
-- Performed data exploration and feature visualisation  
-- Tuned hyperparameters for optimal accuracy  
-- Evaluated results using confusion matrix and classification metrics  
-🧩 *Tech:* Python, Scikit-learn, Matplotlib, Seaborn  
-
-
-
-### 🔹 [Ultra-Marathon Running Data Analysis](https://github.com/sudhakarreddy2005/ultra-marathon-running_data-analysis)  
-Analysed **7.5M+ race records (1798–2022)** to uncover participation and performance trends.  
-- Cleaned and standardised large-scale datasets  
-- Visualised gender-based performance and participation growth  
-- Delivered key insights into seasonal and event-based patterns  
-🧩 *Tech:* Python, Pandas, Seaborn, Matplotlib  
-
-
-### 🔹 [WhatsApp Automation & Chat Data Analytics](https://github.com/sudhakarreddy2005/pywhatkit_dataanalysis)  
-Automated WhatsApp messaging and performed behavioural analytics on **420K+ messages**.  
-- Built tools for instant messaging and scheduling  
-- Extracted patterns such as peak activity hours and top contacts  
-🧩 *Tech:* Python, PyWhatKit, Pandas  
-
-
-
-### 🔹 [Front-End Mini Projects](https://github.com/sudhakarreddy2005/dtipjdemo)  
-Developed responsive web pages and reusable UI components, including:  
-- 🚌 **Bus Transport Page**  
-- 🎲 **Interactive Dice Game**  
-- 🛒 **Pricing Table, Calculator & Shopping Cart**  
-🧩 *Tech:* HTML, CSS, JavaScript, Bootstrap  
-
-
-
-## 🏆 Achievements & Leadership  
-
-- Organised **30+ events** as part of the **Food & Transport Student Activity Council**  
-- Secured **2nd place** in **college-level cricket Extramurals (VIVAVVIT Fest 2023)**  
-- Participated in **Smart India Hackathon**, contributing to innovative solutions  
-
-
-
-## 📫 Let’s Connect  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sudhakar-reddy-konda-769320299)  
-- 🧑‍💻 [GitHub](https://github.com/sudhakarreddy2005)  
-- 📧 **sudhakarreddy30102005@gmail.com**  
-
----
-
-> “Data tells stories — I simply translate them into insights.”  
-⭐ *If my projects resonate with you, feel free to star or fork them!*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
