@@ -17,4 +17,3 @@ Hi 👋 I'm Sudhakar Reddy<br> <br>I am a Computer Science student with a strong
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sudhakarreddy2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
