@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Sudhakar Reddy<br><br>I am a Computer Science student with a strong interest in Data Science and Data Structures & Algorithms.<br>I work with Python and SQL to analyze data and build machine learning models.<br>I actively practice DSA to improve problem-solving and coding efficiency.<br>My goal is to become a skilled Data Science professional with strong core fundamentals.
+Hi 👋 I'm Sudhakar Reddy<br>A Software Developer experienced in building AI-powered applications, REST APIs, and Machine learning solutions using Python, Flask, MongoDB, and Scikit-Learn.<br>My goal is to become a skilled AI Engineer professional with strong core fundamentals.
 
 
 ## 🌐 Socials:
