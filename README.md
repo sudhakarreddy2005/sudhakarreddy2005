@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Sudhakar Reddy<br>A Software Developer experienced in building AI-powered applications, REST APIs, and Machine learning solutions using Python, Flask, MongoDB, and Scikit-Learn.<br>My goal is to become a skilled AI Engineer professional with strong core fundamentals.
+Hi 👋 I'm Sudhakar Reddy, experienced in building AI-powered applications, REST APIs, and Machine learning solutions using Python, Flask, MongoDB, and Scikit-Learn.<br>My goal is to become a skilled AI Engineer professional with strong core fundamentals.
 
 
 ## 🌐 Socials:
